@@ -1,0 +1,1 @@
+A basic rendition of the design of the Google homepage.
